@@ -70,15 +70,6 @@ Each project focuses on a different AWS service or concept, helping me strengthe
 
 ---
 
-## 📈 Progress Tracker
-- [x] [Day 1 – Static Website Hosting](Day01/README.md)  
-- [ ] [Day 2 – EC2 Web App Deployment](Day02/README.md)  
-- [ ] [Day 3 – Load Balancer Setup](Day03/README.md)  
-- [ ] [Day 4 – Auto Scaling Group](Day04/README.md)  
-- [ ] [Day 5 – VPC Setup](Day05/README.md)  
-- …  
-- [ ] [Day 30 – 3-Tier Architecture](Day30/README.md)  
-
 ---
 
 ## 🤝 Connect With Me  
