@@ -10,10 +10,10 @@ Each project focuses on a different AWS service or concept, helping me strengthe
 ## 📌 Project Timeline  
 
 ### ✅ Day 1–5: Foundations & Hosting
-- [Day 1: Static Website Hosting (S3 + Route 53 + CloudFront)](Day1/README.md)  
-- [Day 2: Deploy a Web App on EC2 with Apache](Day2/README.md)  
+- [Day 1: Static Website Hosting (S3 + Route 53 + CloudFront)](Day1/README.md)
+- [Day 2: Deploy a Web App on EC2 with Apache](Day2/README.md)
 - [Day 3: Launch a Load Balancer (ALB) with EC2](Day03/README.md)  
-- [Day 4: Configure Auto Scaling Groups (ASG) for EC2](Day04/README.md)  
+- [Day 4: Configure Auto Scaling Groups (ASG) for EC2](Day04/README.md)   
 - [Day 5: Setup a VPC with Public & Private Subnets](Day05/README.md)  
 
 ---
