@@ -1,4 +1,4 @@
-# EC2-based Web Server – Configure Apache/Nginx on an EC2 #
+# EC2-based Web Server – Configure Apache2 on an EC2 #
 instance. 
 In this project, we will deploy a web server using Amazon EC2. We will launch an EC2 instance, install either Apache2 and configure it to serve a basic 
 website. 
@@ -20,22 +20,41 @@ connect using SSH [ use putty or mobaxterm]
 Step 3: Install Apache2
 For Apache (httpd) 
 Update the package repository: 
-``` sudo apt update -y ```  # Ubuntu 
 
-### Install Apache: ###
-``` sudo apt install apache2 -y ```
 
-Start and enable Apache: 
-``` sudo systemctl start apache2 ``` # Ubuntu 
-``` sudo systemctl enable apache2 ``` # Ubuntu 
 
-### Verify installation: ###
-``` sudo systemctl status apache2 ``` # Ubuntu 
+### ✅ Correct Format for GitHub (with copy button)
 
-## Step 3: Deploy a Web Page##
-Edit the default index file: 
-sudo echo "<h1>Welcome to My Web Server</h1>" > /var/www/html/index.html 
+````markdown
+sudo apt update -y
+````
 
-## Step 4: Access the Web Server ##
-Open a browser and go to: 
-http://your-instance-public-ip 
+### Install Apache:
+
+```bash
+sudo apt install apache2 -y
+```
+
+### Start and enable Apache:
+
+```bash
+sudo systemctl start apache2
+sudo systemctl enable apache2
+```
+
+### Verify installation:
+
+```
+sudo systemctl status apache2
+```
+
+### Deploy a web page:
+
+<h1>Welcome to My Web Server</h1> 
+sudo tree /var/www/html/index.html
+
+---
+
+```
+sudo apt update -y
+````
