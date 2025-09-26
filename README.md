@@ -1,4 +1,4 @@
-### 🚀 30 Days of AWS Projects  ###
+## 🚀 30 Days of AWS Projects ##
 
 Welcome to my **30 Days of AWS Projects** challenge!  
 This repository contains hands-on projects where I learn, build, and share AWS use cases daily.  
